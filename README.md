@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[![linkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jack-everett-001145212/)
 
-
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25" height="25" />][Linkedin]
 <br />
+
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
